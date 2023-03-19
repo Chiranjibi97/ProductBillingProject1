@@ -11,8 +11,7 @@ public class ProductBillingProject1Application {
 	private static Date date=new Date();
 	public static void main(String[] args) {
 		SpringApplication.run(ProductBillingProject1Application.class, args);
-		System.out.println("Chiranjibi");
-		System.out.println(date);
+		System.out.println("Current date is : "+date);
 	}
 
 }
