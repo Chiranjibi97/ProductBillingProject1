@@ -13,6 +13,7 @@ public class ProductBillingProject1Application {
 		SpringApplication.run(ProductBillingProject1Application.class, args);
 		System.out.println("Current date is : "+date);
 		System.out.println("bablu");
+		System.out.println("chiranjibi");
 	}
 
 }
